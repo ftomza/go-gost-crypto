@@ -8,10 +8,11 @@
 package gost_crypto_test
 
 import (
-	"go-gost-crypto"
 	"hash"
 	"reflect"
 	"testing"
+
+	gost_crypto "github.com/ftomza/go-gost-crypto"
 
 	"github.com/ftomza/gogost/gost34112012256"
 )
