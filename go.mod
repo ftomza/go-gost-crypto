@@ -1,4 +1,4 @@
-module go-gost-crypto
+module github.com/ftomza/go-gost-crypto
 
 go 1.15
 
